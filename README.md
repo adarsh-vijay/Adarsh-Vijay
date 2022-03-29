@@ -1,4 +1,7 @@
-### Hi there 👋
+Assistant Professor
+Department of Political Science
+Madras Christian College
+Chennai, India
 
 <!--
 **adarsh-vijay/Adarsh-Vijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
